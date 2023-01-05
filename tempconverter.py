@@ -1,4 +1,4 @@
-
+# Collins Wanga
 def tempconverter():
     print(f'{"T-C":<6}{"T-F"}')
     for i in range (101):
